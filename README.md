@@ -116,11 +116,13 @@ The categories for this plug-in are as follows:
 ## Release Notes
 
 ### Create Color Swatch Tool
+
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 09/04/2026 | 1.0.0 | Initial release |
 
 ### JNC-Color Swatch PIO
+
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 09/04/2026 | 1.0.0 | Initial release |
